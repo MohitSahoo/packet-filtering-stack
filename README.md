@@ -10,9 +10,12 @@ Ideal for showcasing your understanding of **Data Structures**, **Networking**, 
 
 packet-filtering-stack/
 ├── dsa.c # Packet stack logic using C (LIFO)
+
 ├── guidsa.py # Python GUI using Tkinter
+
 ├── packets.txt # Sample input packets
-├── README.md # Project documentation (this file)
+
+├── README.md 
 
 yaml
 Copy
@@ -79,9 +82,6 @@ Copy
 Edit
 python guidsa.py
 ✅ Python 3 and Tkinter must be installed.
-
-📸 GUI Screenshots
-(Add a screenshot here later by saving one in assets/ and linking it)
 
 ✨ Future Enhancements
 Read firewall rules from external config
