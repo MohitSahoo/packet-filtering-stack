@@ -57,15 +57,15 @@ rules = [
 GUI shows whether each packet matches any rule or not.
 
 📝 Sample Input (packets.txt)
-txt
-Copy
-Edit
+
 # Format: ID SourceIP DestinationIP Action
 1 192.168.1.1 192.168.1.2 ALLOW
 2 192.168.1.2 192.168.1.3 BLOCK
 3 192.168.1.3 192.168.1.4 ALLOW
 4 10.0.0.1 10.0.0.2 BLOCK
 5 172.16.0.5 172.16.0.10 ALLOW
+```
+
 🚀 How to Run
 Compile and Run the C File:
 bash
